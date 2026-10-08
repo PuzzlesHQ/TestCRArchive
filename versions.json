@@ -6,6 +6,22 @@
     },
     "versions": [
         {
+            "id": "0.48923.23423-release",
+            "type": "release",
+            "phase": "release",
+            "releaseTime": 2077121460,
+            "client": {
+                "url": "https://github.com/PuzzlesHQ/TestCRArchive/releases/download/0.48923.23423-release/cosmic-reach-client-0.48923.23423-release.jar",
+                "sha256": "59668d91f19b4e6843f0f3014d9f69eabfdadf21f84e701962064630263689c6",
+                "size": 60223301
+            },
+            "server": {
+                "url": "https://github.com/PuzzlesHQ/TestCRArchive/releases/download/0.48923.23423-release/cosmic-reach-server-0.48923.23423-release.jar",
+                "sha256": "c33b35ba496a8cb0e398b2d6a844cf5104d6e27d4ac55600a3262c18e401de57",
+                "size": 19379918
+            }
+        },
+        {
             "id": "0.41845.343-release+t",
             "type": "snapshot",
             "phase": "release",
